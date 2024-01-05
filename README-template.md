@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:https://www.frontendmentor.io/solutions/blog-preview-card-using-html-css-8nXi_5AZUD
 - Live Site URL: https://anirudh1970.github.io/Blog-preview-card-Frontendmentor.io-/
 
 ## My process
