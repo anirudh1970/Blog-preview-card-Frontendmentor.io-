@@ -55,7 +55,7 @@ Areas that need focussing for me:
 
 ### Useful resources
 
-- Website - [Anirudh](https://w3schools.com/)
+- [W3SCHOOLS](https://w3schools.com/) - Very useful and helped me in styling the page a lot.Definitely should check it out if you want to learn CSS.
 
 ## Author
 
